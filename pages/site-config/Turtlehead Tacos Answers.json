@@ -2,9 +2,7 @@
   "$id": "Turtlehead Tacos Answers",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
   "features": [],
-  "domainConfig": {
-    "hostName": "answers-turtleheadtacos-${{businessId}}.landingpagessbx.yextengtest.com"
-  },
+  "domain": "answers-domain",
   "publishingConfig": {
     "pinnedProductionBranchName": "refs/heads/master",
     "pinnedStagingBranchName": "refs/heads/master",
